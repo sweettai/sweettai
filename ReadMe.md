@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Sistemas de Informação<br>Atualmente estou me especializando em back-end<br>Futuramente pretendo me tornar Full stack<br>Sou apaixonada por tecnologia e estou a procura de cada mais vez ter conhecimento<br>
+Sou estudante de Sistemas de Informação<br>Atualmente estou me especializando em back-end<br>Futuramente pretendo me tornar Full stack<br>Sou apaixonada por tecnologia e estou a procura de cada vez mais ter conhecimento<br>
 
 
 ## 🌐 Socials:
